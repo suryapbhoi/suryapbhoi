@@ -22,6 +22,6 @@
 
 # Reach Me 
 + LinkedIn: https://www.linkedin.com/in/suryapbhoi/
-+ 🔭 I’m currently working on Product Management and Data Analytics
+
 
 
