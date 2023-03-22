@@ -5,12 +5,10 @@
 + #### Expertise in Stakeholder communication, cross-teams collaboration, vendor communication, Data Products and Data Analysis
  
 # Skills
-+ #### Product skills: Product Roadmap, Product Design, Agile Development, A/B testing, Hypothesis Testing
 + #### Technology Skills : SQL, Python, APIs, Machine Learning, Data Science/ Analytics, Data Engineering, ETL, Quality Assurance, Unix, Database, Big data, Data Modelling
-+ #### Tools: Jira, Github, Tableau, Jupyter Notebook, Google Colab, Figma, Selenium
++ #### Tools: Jira, Github, Tableau, Jupyter Notebook, Google Colab, Selenium
  
 # Education
-+ #### PG Diploma in Product Management (Pragmatic Leaders)
 + #### PG Diploma in Machine Learning and Artificial Intelligence (University of Hyderabad)
 + #### Bachelor of Technology in Electrical and Electronics Engineering (National Institute of Science and Technology)
  
